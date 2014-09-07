@@ -1,3 +1,4 @@
 *.sublime-project
 *.sublime-workspace
-
+wordpress/wp-content/themes/simplewp/sass
+*.sh
